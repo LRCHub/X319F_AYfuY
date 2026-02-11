@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "碧い瞳のエリス",
+  "base_artist": "安全地帯",
+  "createdAt": "2026-02-11T14:49:40.954564Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "碧い瞳のエリス",
+      "artist": "Anzen Chitai",
+      "has_synced": true,
+      "path": "select/01_碧い瞳のエリス_Anzen_Chitai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "碧い瞳のエリス",
+      "artist": "Anzenchitai",
+      "has_synced": true,
+      "path": "select/02_碧い瞳のエリス_Anzenchitai.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "碧い瞳のエリス - 2010ヴァージョン",
+      "artist": "Anzen Chitai",
+      "has_synced": true,
+      "path": "select/03_碧い瞳のエリス_-_2010ヴァージョン_Anzen_Chitai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "碧い瞳のエリス",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_01_碧い瞳のエリス_安全地帯.txt"
+    }
+  ]
+}
